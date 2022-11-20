@@ -1,1 +1,1 @@
-<h1>Not Finished Yet...</h1>
+<h1>Designed Only in Desktop Version and Not Finished Yet...</h1>
