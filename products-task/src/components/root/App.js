@@ -1,9 +1,15 @@
 import React from "react";
+import { Container } from "reactstrap";
+import Navigation from "../navigation/Navigation";
+import Dashboard from "./Dashboard";
 
 function App() {
   return (
     <div>
-      <h1>Test</h1>
+      <Container>
+        <Navigation />
+        <Dashboard />
+      </Container>
     </div>
   );
 }
