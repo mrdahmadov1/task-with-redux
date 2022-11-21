@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "alertifyjs": "^1.13.1",
     "redux-thunk": "^2.4.2"
   }
 }
